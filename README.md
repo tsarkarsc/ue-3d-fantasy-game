@@ -11,7 +11,7 @@ Read the pdf for more info.
 ## Screenshots
 
 ### Main Menu
-![](game_menu.png)
+![](Screenshots/game_menu.png)
 
 ### Landscape Overview
 ![](game_landscape.png)
