@@ -6,6 +6,8 @@ The player takes on the role of a paladin on a quest to kill an evil mage. There
 
 Read the pdf for more info.
 
+Developers: Tanvir Sarkar, Stephen Noble, Woosle Park, Anujan Sritharan
+
 ## Instructions
 
 ## Screenshots
