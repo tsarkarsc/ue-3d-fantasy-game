@@ -10,6 +10,10 @@ Developers: Tanvir Sarkar, Stephen Noble, Woosle Park, Anujan Sritharan
 
 ## Instructions
 
+1. Download the Files (1.6 GB) http://bit.ly/2ELyQqL
+2. Unzip
+3. Open the project file in UE4 (build (lighting might take a little while), then play)
+
 ## Screenshots
 
 ### Main Menu
